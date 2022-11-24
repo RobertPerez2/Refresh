@@ -5,3 +5,7 @@ Developed using Flutter and Dart, Refresh is a simple To-Do-List mobile app with
 Refresh includes the ability to add, check off, and remove tasks. Users also have the ability to set alarms and calculate the amount of sleep they hope to achieve. We incoprated Hive API, a NoSQL database, to store relevant data to prevent users from losing their information every time they close or open the app.
 
 Test with an emulator provided by Android Studio, Xcode, or Visual Studio!
+
+![Simulator Screen Shot - iPhone 14 - 2022-11-24 at 15 25 13](https://user-images.githubusercontent.com/89865515/203874385-103d7898-d4bf-4f8b-8fbe-194cb9ae8e91.png)
+![Simulator Screen Shot - iPhone 14 - 2022-11-24 at 15 24 48](https://user-images.githubusercontent.com/89865515/203874391-d205d0b3-5d1e-490d-93be-7ead830cdf72.png)
+![Simulator Screen Shot - iPhone 14 - 2022-11-24 at 15 22 57](https://user-images.githubusercontent.com/89865515/203874393-c803200c-4f04-47d6-bdd2-83f831e53837.png)
