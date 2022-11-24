@@ -6,7 +6,8 @@ Refresh includes the ability to add, check off, and remove tasks. Users also hav
 
 Test with an emulator provided by Android Studio, Xcode, or Visual Studio!
 
-![Simulator Screen Shot - iPhone 14 - 2022-11-24 at 15 24 48](https://user-images.githubusercontent.com/89865515/203874579-9d9b2dec-9a09-4773-b634-3c749f662bd9.png)
-![Simulator Screen Shot - iPhone 14 - 2022-11-24 at 15 22 57](https://user-images.githubusercontent.com/89865515/203874581-0acf2fa0-ba14-4258-950b-69bd0c978060.png)
-![Simulator Screen Shot - iPhone 14 - 2022-11-24 at 15 25 13](https://user-images.githubusercontent.com/89865515/203874583-c67b50a1-82aa-473d-96b5-5d0f39ae0940.png)
+![RefreshSim(3)](https://user-images.githubusercontent.com/89865515/203874890-78b8e1e1-0b7b-483e-b465-717c5c94b162.png)
+![RefreshSim(1)](https://user-images.githubusercontent.com/89865515/203874892-844fe4e3-e857-4680-9cd9-822b1983ec62.png)
+![RefreshSim(2)](https://user-images.githubusercontent.com/89865515/203874893-960b1f1e-8e84-4b9f-83dc-843c87518416.png)
+
 
